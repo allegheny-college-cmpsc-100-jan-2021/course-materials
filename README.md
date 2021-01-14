@@ -5,11 +5,11 @@ This repository hosts materials which describe the structure and operation this 
 ## Resources
 
 * [Syllabus](#syllabus)
-* [Course schedule](https://docs.google.com/spreadsheets/d/1IipaLn_LZ23eIgh0fTihB5VXf00XMkchFZTywQdMgjs/edit?usp=sharing)
+* [Course schedule](https://chomp.link/jan-2021-schedule)
 * [Course Slack channel](https://cmpsc-100-00-ja-2021.slack.com)
 * [Course Jupyter server](https://jupyter.cs.allegheny.edu)
-* [Office hours appointment calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUZhdGE0ampEVWhHfGRlZmF1bHR8MDAxZDc2Yjg3NTFhMjMwMjM4OWM5ZjE5ZmU5YTI4ODk)
-* [Student Support Ticket system](https://forms.gle/wJAwytakYcC4e2rU7)
+* [Office hours appointment calendar](http://chomp.link/office-hours)
+* [Student Support Ticket system](http://chomp.link/support-tickets)
 
 ## Syllabus
 
@@ -72,7 +72,7 @@ This course relies on the [GitHub](https://www.github.com), [Slack](https://cmps
 
 #### Media
 
-Before each week begins, I will short topic-focused videos to review. These videos may contain activities that you can do in parallel with or after  viewing material. Video content is meant to support, but not be a substitute for, topics discussed and exercised that week. I will provide links to participate in or to access activities or supplmentary material in a Slack post along with video links.
+Before each week begins, I will post short topic-focused videos to review. These videos may contain activities that you can do in parallel with or after  viewing material. Video content is meant to support, but not be a substitute for, topics discussed and exercised that week. I will provide links to participate in or to access activities or supplmentary material in a Slack post along with video links.
 
 ### Learning objectives
 
